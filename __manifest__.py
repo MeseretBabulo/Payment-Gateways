@@ -7,7 +7,7 @@
 {
     'name': 'Chapa Payment Integration',
     'version': '13.0.1',
-    'summary': 'Tool used \to pay to redirect to th chapa payment server and process trnasactions',
+    'summary': 'Tool used to pay to redirect to th chapa payment server and process trnasactions',
     'sequence': 150,
     'description': 'Tool used to pay to redirect to the chapa payment server and process transaction.Can be used from website'
                    'and from the sales(by generating a payment link',
